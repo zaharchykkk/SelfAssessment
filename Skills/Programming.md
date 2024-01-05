@@ -38,21 +38,21 @@
   - pure function 🖐️ used
   - lambda expression 🖐️ used
   - side effects 🖐️ used
-  - closure 👂 heard
-  - partial application 👂 heard
+  - closure 🖐️ used
+  - partial application 🖐️ used
   - curry  👂 heard
-  - higher order 👂 heard
+  - higher order 🖐️ used
   - recursion 🖐️ used
   - callback 🖐️ used
   - listener 👂 heard
   - compose  👂 heard
   - pipe  👂 heard
-  - memoize 👂 heard
+  - memoize 🖐️ used
   - wrapper  👂 heard
-  - functor 👂 heard
-  - monad 👂 heard
-  - monoid 👂 heard
-  - generator 👂 heard
+  - functor 🖐️ used
+  - monad 🖐️ used
+  - monoid 🖐️ used
+  - generator 🖐️ used
   - coroutine  👂 heard
 - Data structures
   - array 🖐️ used
@@ -61,48 +61,48 @@
   - enum 🖐️ used
   - instance 🖐️ used
   - object 🖐️ used
-  - class 👂 heard
+  - class 🖐️ used
   - collection 🖐️ used
   - set 👂 heard
-  - hash table 👂 heard
-  - linked list 👂 heard
-  - doubly list 👂 heard
-  - unrolled list 👂 heard
+  - hash table 🖐️ used
+  - linked list 🖐️ used
+  - doubly list 🖐️ used
+  - unrolled list 🖐️ used
   - circular list 👂 heard
-  - queue 👂 heard
-  - stack 👂 heard
-  - deque 👂 heard
-  - tree 👂 heard
-  - graph 👂 heard
-  - iterator 👂 heard
-  - mutable state 👂 heard
-  - immutable state 👂 heard
-  - serialization 👂 heard
-  - string parsing 👂 heard
+  - queue 🖐️ used
+  - stack 🖐️ used
+  - deque 🖐️ used
+  - tree 🖐️ used
+  - graph 🖐️ used
+  - iterator 🖐️ used
+  - mutable state 🖐️ used
+  - immutable state 🖐️ used
+  - serialization 🖐️ used
+  - string parsing 🖐️ used
 - Process & style
-  - compiler👂 heard
-  - transpiler👂 heard
+  - compiler🖐️ usedn
+  - transpiler🖐️ used
   - linter🖐️ used
   - polyfill🖐️ used
   - debugger🖐️ used
   - garbage collection🖐️ used
   - refactoring🖐️ used
   - code review🖐️ used
-  - antipatterns👂 heard
+  - antipatterns🎓 known
   - paradigm👂 heard
-  - algorithm👂 heard
-  - magic numbers👂 heard
-  - hardcode👂 heard
-  - complexity👂 heard
-  - decomposition👂 heard
-  - spaghetti 👂 heard
-  - silver bullet👂 heard
-  - not invented here👂 heard
-  - dead code👂 heard
-  - unreachable code👂 heard
-  - duplicate code👂 heard
-  - exception👂 heard
-  - return early👂 heard
-  - unittest👂 heard
-  - git👂 heard
+  - algorithm🖐️ usedn
+  - magic numbers🖐️ used
+  - hardcode🖐️ used
+  - complexity🎓 known
+  - decomposition🎓 known
+  - spaghetti (i'm God in this)
+  - silver bullet🖐️ used
+  - not invented here🎓 known
+  - dead code🖐️ used
+  - unreachable code🖐️ used
+  - duplicate code🖐️ used
+  - exception🎓 known
+  - return early🖐️ used
+  - unittest🎓 known
+  - git🎓 known
   - github🎓 known
