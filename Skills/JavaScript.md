@@ -1,89 +1,91 @@
 ## Programming fundamental concepts
 
+👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
+
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
+  - Object 🖐️ used
+  - this 🖐️ used
+  - arrow function 👂 heard
+  - async function 👂 heard
+  - call 🖐️ used
+  - bind 🖐️ used
+  - apply 🖐️ used
+  - instanceof 🖐️ used
+  - ...spread 👂 heard
+  - ...rest 👂 heard
+  - typeof 🖐️ used
+  - destructuring 👂 heard
+  - generator 👂 heard
+  - iterator 👂 heard
+  - async generator 👂 heard
+  - async iterator 👂 heard
+  - chaining 🖐️ used
+  - optional chaining 🖐️ used
+  - IIFE 👂 heard
+  - global 🖐️ used
+  - globalThis 👂 heard
+  - window 👂 heard
   - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - __proto__ 👂 heard
+  - prototype 👂 heard
+  - equality operators 🖐️ used
+  - logical operators 🖐️ used
+  - bitwise operators 🖐️ used
+  - ternary operator 🖐️ used
+  - void 🖐️ used
+  - yield 👂 heard
+  - await 👂 heard
+  - template literal 👂 heard
+  - strict mode 👂 heard
+  - delete 👂 heard
+  - in 👂 heard
+  - super 👂 heard
+  - Symbol 👂 heard
+  - Reflect 👂 heard
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
+  - for..of 👂 heard
+  - for await  👂 heard
+  - throw 🖐️ used
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import 👂 heard
+  - export 🖐️ used
+  - label 👂 heard
+  - try..catch 👂 heard
+  - switch 🖐️ used
+  - class 👂 heard
+  - new Error 👂 heard
+  - with 👂 heard
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration 👂 heard
+  - function expression 👂 heard
+  - return 🖐️ used
+  - default parameters 👂 heard
+  - functional object 👂 heard
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - Array🖐️ used
+  - mixin👂 heard
+  - extend👂 heard
+  - typed arrays👂 heard
+  - Map👂 heard
+  - Set👂 heard
+  - undefined👂 heard
+  - null👂 heard
+  - Proxy👂 heard
+  - weak collections👂 heard
+  - timers🖐️ used
+  - EventEmitter👂 heard
+  - RegExp👂 heard
+  - Date👂 heard
+  - BigInt👂 heard
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8👂 heard
+  - Node.js🖐️ used
+  - npm👂 heard
+  - prettier👂 heard
+  - MDN👂 heard
