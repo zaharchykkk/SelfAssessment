@@ -3,7 +3,7 @@
 👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 
 - Theory
-  - Event loop👂 heard
+  - Event loop🎓 known
   - try..catch👂 heard
   - Non-blocking👂 heard
   - Async I/O👂 heard
@@ -24,10 +24,10 @@
   - Thread👂 heard
   - Process👂 heard
 - Async contracts
-  - Callbacks👂 heard
+  - Callbacks🎓 known
   - Callback-last-error-first👂 heard
   - Thenable👂 heard
-  - Promise👂 heard
+  - Promise🎓 known
   - Async/await👂 heard
   - Future👂 heard
   - Deferred👂 heard

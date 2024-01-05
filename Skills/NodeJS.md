@@ -13,7 +13,7 @@
   - I/O-bound, CPU-bound, memory-bound tasks👂 heard
   - Interactive applications (close to real-time)👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules👂 heard
+  - CommonJS modules🎓 known
   - ECMAScript modules🖐️ used
   - node:module👂 heard
   - Caching in CJS and ESM👂 heard
@@ -30,7 +30,7 @@
 - Environment
   - Command line arguments👂 heard
   - Node.js CLI👂 heard
-  - Process-based permissions👂 heard
+  - Process-based permissions🎓 known
   - Graceful shutdown👂 heard
   - Clustering👂 heard
   - Watch filesystem changes with --watch👂 heard
@@ -100,11 +100,11 @@
   - RPC👂 heard
   - Routing👂 heard
   - DoS👂 heard
-  - DDoS👂 heard
+  - DDoS🎓 known
   - XSS👂 heard
   - Path traversal👂 heard
   - CSRF👂 heard
-  - DNS👂 heard
+  - DNS🎓 known
   - Fetch API👂 heard
   - IncomingMessage
   - SQL injection👂 heard
@@ -115,22 +115,22 @@
   - SSL certificates👂 heard
   - Protocol agnostic approach👂 heard
 - Technique and tools
-  - Native test runner👂 heard
+  - Native test runner🎓 known
   - Logging👂 heard
   - Application configuring
-  - Testing👂 heard
+  - Testing🎓 known
   - CI/CD👂 heard
   - Readable👂 heard
   - Writable👂 heard
   - Transform👂 heard
   - back pressure
   - Buffer👂 heard
-  - Console👂 heard
+  - Console🎓 known
   - Inspector👂 heard
-  - Reliability👂 heard
-  - Quality👂 heard
-  - Availability👂 heard
-  - Flexibility👂 heard
+  - Reliability🎓 known
+  - Quality🎓 known
+  - Availability🎓 known
+  - Flexibility🎓 known
 - Data access
   - Data access layer👂 heard
   - Repository👂 heard
@@ -138,10 +138,10 @@
   - Query builder👂 heard
   - Object-Relational Mapping👂 heard
 - Error handling and debugging
-  - Error👂 heard
-  - error.cause👂 heard
-  - error.code👂 heard
-  - error.message👂 heard
+  - Error🎓 known
+  - error.cause🎓 known
+  - error.code🎓 known
+  - error.message🎓 known
   - error.stack👂 heard
   - How to avoid mixins👂 heard
   - Error.captureStackTrace👂 heard

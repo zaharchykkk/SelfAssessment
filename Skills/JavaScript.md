@@ -5,16 +5,16 @@
 - Language
   - Object 🖐️ used
   - this 🖐️ used
-  - arrow function 👂 heard
+  - arrow function 🖐️ used
   - async function 👂 heard
   - call 🖐️ used
   - bind 🖐️ used
   - apply 🖐️ used
   - instanceof 🖐️ used
-  - ...spread 👂 heard
-  - ...rest 👂 heard
+  - ...spread 🖐️ used
+  - ...rest 🖐️ used
   - typeof 🖐️ used
-  - destructuring 👂 heard
+  - destructuring 🖐️ used
   - generator 👂 heard
   - iterator 👂 heard
   - async generator 👂 heard
@@ -27,7 +27,7 @@
   - window 👂 heard
   - getters and setters
   - __proto__ 👂 heard
-  - prototype 👂 heard
+  - prototype 🖐️ used
   - equality operators 🖐️ used
   - logical operators 🖐️ used
   - bitwise operators 🖐️ used
@@ -35,12 +35,12 @@
   - void 🖐️ used
   - yield 👂 heard
   - await 👂 heard
-  - template literal 👂 heard
-  - strict mode 👂 heard
-  - delete 👂 heard
-  - in 👂 heard
+  - template literal 🖐️ used
+  - strict mode 🖐️ used
+  - delete 🖐️ used
+  - in 🖐️ used
   - super 👂 heard
-  - Symbol 👂 heard
+  - Symbol 🖐️ used
   - Reflect 👂 heard
 - Statements
   - if 🖐️ used
@@ -48,41 +48,41 @@
   - do..while 🖐️ used
   - for 🖐️ used
   - for..in 🖐️ used
-  - for..of 👂 heard
+  - for..of 🖐️ used
   - for await  👂 heard
   - throw 🖐️ used
   - break 🖐️ used
   - continue 🖐️ used
-  - import 👂 heard
+  - import 🖐️ used
   - export 🖐️ used
   - label 👂 heard
-  - try..catch 👂 heard
+  - try..catch 🖐️ used
   - switch 🖐️ used
-  - class 👂 heard
-  - new Error 👂 heard
-  - with 👂 heard
+  - class 🖐️ used
+  - new Error 🖐️ used
+  - with 🖐️ used
 - Functions
-  - function declaration 👂 heard
-  - function expression 👂 heard
+  - function declaration 🖐️ used
+  - function expression 🖐️ used
   - return 🖐️ used
-  - default parameters 👂 heard
-  - functional object 👂 heard
+  - default parameters 🖐️ used
+  - functional object 🖐️ used
 - Data structures
   - Array🖐️ used
-  - mixin👂 heard
-  - extend👂 heard
-  - typed arrays👂 heard
-  - Map👂 heard
-  - Set👂 heard
-  - undefined👂 heard
-  - null👂 heard
+  - mixin🖐️ used
+  - extend🖐️ used
+  - typed arrays🖐️ used
+  - Map🖐️ used
+  - Set🖐️ used
+  - undefined🖐️ used
+  - null🖐️ used
   - Proxy👂 heard
   - weak collections👂 heard
   - timers🖐️ used
   - EventEmitter👂 heard
-  - RegExp👂 heard
-  - Date👂 heard
-  - BigInt👂 heard
+  - RegExp🖐️ used
+  - Date🖐️ used
+  - BigInt🖐️ used
 - Infrastructure
   - V8👂 heard
   - Node.js🖐️ used
