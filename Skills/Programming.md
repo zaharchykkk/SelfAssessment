@@ -16,7 +16,7 @@
   - method 🖐️ used
   - class 🖐️ used
   - prototype 🖐️ used
-  - event👂 heard
+  - event🖐️ used
   - type 🖐️ used
   - primitive types 🖐️ used
   - reference types 🖐️ used
@@ -98,11 +98,11 @@
   - spaghetti 👂 heard
   - silver bullet👂 heard
   - not invented here👂 heard
-  - dead code👂 heard
-  - unreachable code👂 heard
+  - dead code🖐️ used
+  - unreachable code🖐️ used
   - duplicate code👂 heard
   - exception👂 heard
   - return early👂 heard
   - unittest👂 heard
-  - git👂 heard
-  - github🎓 known
+  - git🖐️ used
+  - github🖐️ used

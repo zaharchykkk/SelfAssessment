@@ -4,7 +4,7 @@
 
 - Theory
   - Event loop👂 heard
-  - try..catch👂 heard
+  - try..catch🎓 known
   - Non-blocking👂 heard
   - Async I/O👂 heard
   - Thread pool👂 heard

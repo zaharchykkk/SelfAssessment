@@ -13,7 +13,7 @@
   - I/O-bound, CPU-bound, memory-bound tasks👂 heard
   - Interactive applications (close to real-time)👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules👂 heard
+  - CommonJS modules🖐️ used
   - ECMAScript modules🖐️ used
   - node:module👂 heard
   - Caching in CJS and ESM👂 heard
