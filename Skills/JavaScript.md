@@ -5,7 +5,7 @@
 - Language
   - Object 🖐️ used
   - this 🖐️ used
-  - arrow function 👂 heard
+  - arrow function 🖐️ used
   - async function 👂 heard
   - call 🖐️ used
   - bind 🖐️ used
@@ -36,7 +36,7 @@
   - yield 👂 heard
   - await 👂 heard
   - template literal 👂 heard
-  - strict mode 👂 heard
+  - strict mode 🖐️ used
   - delete 👂 heard
   - in 👂 heard
   - super 👂 heard
@@ -48,44 +48,44 @@
   - do..while 🖐️ used
   - for 🖐️ used
   - for..in 🖐️ used
-  - for..of 👂 heard
+  - for..of 🖐️ used
   - for await  👂 heard
   - throw 🖐️ used
   - break 🖐️ used
   - continue 🖐️ used
-  - import 👂 heard
+  - import 🖐️ used
   - export 🖐️ used
   - label 👂 heard
-  - try..catch 👂 heard
+  - try..catch 🖐️ used
   - switch 🖐️ used
   - class 👂 heard
   - new Error 👂 heard
   - with 👂 heard
 - Functions
-  - function declaration 👂 heard
+  - function declaration 🖐️ used
   - function expression 👂 heard
   - return 🖐️ used
-  - default parameters 👂 heard
-  - functional object 👂 heard
+  - default parameters 🖐️ used
+  - functional object 🖐️ used
 - Data structures
   - Array🖐️ used
   - mixin👂 heard
   - extend👂 heard
   - typed arrays👂 heard
-  - Map👂 heard
-  - Set👂 heard
-  - undefined👂 heard
-  - null👂 heard
+  - Map🖐️ used
+  - Set🖐️ usedd
+  - undefined🖐️ used
+  - null🖐️ used
   - Proxy👂 heard
   - weak collections👂 heard
   - timers🖐️ used
   - EventEmitter👂 heard
   - RegExp👂 heard
-  - Date👂 heard
+  - Date🖐️ used
   - BigInt👂 heard
 - Infrastructure
   - V8👂 heard
   - Node.js🖐️ used
-  - npm👂 heard
-  - prettier👂 heard
+  - npm🖐️ used
+  - prettier🖐️ used
   - MDN👂 heard
